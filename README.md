@@ -13,7 +13,7 @@ CBTIS No. 200 · Programación · 3AM PGR · Docente: Mtro. Omar Torres Sánchez
 | Scrum Master | (MIGUEL ANGEL VARGAS) |
 | Equipo de desarrollo | (ACEVEDO AVILA AITOR ) |
 
-Tablero del proyecto: (pega aquí la liga de tu tablero de GitHub Projects)
+Tablero del proyecto:(https://github.com/omartorres-cbtis200/califiapp.git)
 
 ## Historias de usuario terminadas
 
